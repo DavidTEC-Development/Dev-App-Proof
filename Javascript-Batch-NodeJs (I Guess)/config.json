@@ -1,0 +1,12 @@
+
+{
+    "token"  : "",
+    "prefix" : "!",
+    "endl": "\n",
+    "discordBotName": "DerpyDude Bot",
+    "Time": 30,
+    "_Comment_": "Amount of TimeInterval. h = hours, m = minutes, s = seconds",
+    "TimeInterval": "m",
+    "Message": "Make sure to subscribe to @DerpyDude!",
+    "Message2": "<https://www.youtube.com/channel/UCw1V7o-HjRuRDa3k40InqYQ>"
+}
